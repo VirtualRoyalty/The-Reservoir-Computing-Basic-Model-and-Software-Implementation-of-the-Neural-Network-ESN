@@ -1,3 +1,4 @@
+# Зависимость ESN-cети от темпорализации данных
 
 Темпорализация |Синтетические данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
 :------- | :----: | :----: 
