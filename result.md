@@ -1,4 +1,8 @@
-# Зависимость ESN-cети от темпорализации данных
+   via      | Синтезированные данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
+:------- | :----: | :----: 
+XGboost | <img src="pics/xgcnfSynth.png"> | <img src="pics/xgcnfReal.png">
+
+## Зависимость ESN-cети от темпорализации данных
 
 Темпорализация <br> (порядок features) |Синтезированные данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
 :------- | :----: | :----: 
@@ -9,4 +13,4 @@
 В обратном порядке *importance*|<img src="pics/nonordcnfSynth.png"> <img src="pics/nonordSynth.png"> |<img src="pics/nonordcnfReal.png"> <img src="pics/nonordReal.png">
 Все в случайном порядке|<img src="pics/shuffcnfSynth.png"> <img src="pics/shuffSynth.png"> |<img src="pics/shuffcnfReal.png"> <img src="pics/shuffReal.png">
 
-#width="500" height="400"
+
