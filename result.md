@@ -1,6 +1,6 @@
 # Зависимость ESN-cети от темпорализации данных
 
-Темпорализация |Синтетические данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
+Темпорализация <br> (порядок features) |Синтетические данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
 :------- | :----: | :----: 
 Без темпорализации  | <img src="pics/cnfSynth.png"> <img src="pics/notempoSynth.png">|  <img src="pics/cnfReal.png"> <img src="pics/notempoReal.png">
 Две первые по *importance*  |<img src="pics/1st2ndcnfSynth.png"> <img src="pics/1st2ndSynth.png">|<img src="pics/1st2ndcnfReal.png"> <img src="pics/1st2ndReal.png">
