@@ -1,8 +1,8 @@
 # Зависимость ESN-cети от темпорализации данных
 
-Темпорализация <br> (порядок features) |Синтетические данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
+Темпорализация <br> (порядок features) |Синтезированные данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
 :------- | :----: | :----: 
-Без темпорализации  | <img src="pics/cnfSynth.png"> <img src="pics/notempoSynth.png">|  <img src="pics/cnfReal.png"> <img src="pics/notempoReal.png">
+Без изменения  | <img src="pics/cnfSynth.png"> <img src="pics/notempoSynth.png">|  <img src="pics/cnfReal.png"> <img src="pics/notempoReal.png">
 Две первые по *importance*  |<img src="pics/1st2ndcnfSynth.png"> <img src="pics/1st2ndSynth.png">|<img src="pics/1st2ndcnfReal.png"> <img src="pics/1st2ndReal.png">
 Первая и последняя по *importance*  |<img src="pics/1stEndcnfSynth.png"> <img src="pics/1stEndSynth.png"> |<img src="pics/1stEndcnfReal.png"> <img src="pics/1stEndReal.png">
 В порядке *importance* |<img src="pics/ordcnfSynth.png"> <img src="pics/ordSynth.png"> |<img src="pics/ordcnfReal.png"> <img src="pics/ordReal.png">
