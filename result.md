@@ -2,7 +2,7 @@
 :------- | :----: | :----: 
 XGboost | <img src="pics/xgcnfSynth.png"> | <img src="pics/xgcnfReal.png">
 
-## Зависимость ESN-cети от темпорализации данных
+##       Зависимость ESN-cети от темпорализации данных
 
 Темпорализация <br> (порядок features) |Синтезированные данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
 :------- | :----: | :----: 
