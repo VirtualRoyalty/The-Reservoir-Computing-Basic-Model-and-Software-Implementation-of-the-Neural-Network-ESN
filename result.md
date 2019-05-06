@@ -2,7 +2,7 @@
 :------: | :----: | :----: 
 XGboost | <img src="pics/xgcnfSynth.png"> | <img src="pics/xgcnfReal.png">
 
-##       Таблица зависимость объекта __Classification__ от темпорализации  (изменения порядка признаков в наборе данных )
+##       Таблица зависимости объекта __ClassificationESN__ от темпорализации  (изменения порядка признаков в наборе данных )
 
 Темпорализация <br> (порядок features) |Синтезированные данные <br>  (sklearn.datasets)  | Реальные данные <br> (Heart Disease UCI dataset from kaggle.com)
 :------: | :----: | :----: 
