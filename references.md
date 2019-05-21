@@ -7,3 +7,4 @@
 6. [РЕКУРРЕНТНАЯ НЕЙРОННАЯ СЕТЬ КАК ДИНАМИЧЕСКАЯ СИСТЕМА И ПОДХОДЫ К ЕЕ ОБУЧЕНИЮ, Бендерская Е.Н.,Никитин К.В.](https://cyberleninka.ru/article/v/rekurrentnaya-neyronnaya-set-kak-dinamicheskaya-sistema-i-podhody-k-ee-obucheniyu)
 7. [Нейро-фаззи эхо-сеть для прогнозирования состояний и диагностики электроэнергетических систем](http://masters.donntu.org/2012/etf/ipanov/library/article8.pdf)
 8. [aureservoir](http://aureservoir.sourceforge.net/)
+9. [A Practical Guide to Applying Echo State Networks Mantas Lukoˇseviˇcius Jacobs University Bremen, Campus Ring 1, 28759 Bremen, Germany](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.616&rep=rep1&type=pdf)
