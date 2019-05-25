@@ -8,3 +8,4 @@
 7. [Нейро-фаззи эхо-сеть для прогнозирования состояний и диагностики электроэнергетических систем](http://masters.donntu.org/2012/etf/ipanov/library/article8.pdf)
 8. [aureservoir](http://aureservoir.sourceforge.net/)
 9. [A Practical Guide to Applying Echo State Networks Mantas Lukoˇseviˇcius Jacobs University Bremen, Campus Ring 1, 28759 Bremen, Germany](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.616&rep=rep1&type=pdf)
+10. [1.	Introduction to Reservoir Computing Methods, Luca Melandri, Alma Mater Studiorum , Universita di Bologna](https://amslaurea.unibo.it/8268/1/melandri_luca_tesi.pdf)
