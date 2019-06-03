@@ -10,3 +10,4 @@
 9. [A Practical Guide to Applying Echo State Networks Mantas Lukoˇseviˇcius Jacobs University Bremen, Campus Ring 1, 28759 Bremen, Germany](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.616&rep=rep1&type=pdf)
 10. [	Introduction to Reservoir Computing Methods, Luca Melandri, Alma Mater Studiorum , Universita di Bolog](https://amslaurea.unibo.it/8268/1/melandri_luca_tesi.pdf)
 11. [Leaky Echo State Network Sergio Peignier May 3, 2017](https://sergiopeignier.github.io/teaching/python/leaky-echo-state.pdf)
+12. [](https://cyberleninka.ru/article/v/ispolzovanie-metodov-intellektualnogo-analiza-v-zadachah-binarnoy-klassifikatsii)
