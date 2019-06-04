@@ -11,4 +11,4 @@
 10. [	Introduction to Reservoir Computing Methods, Luca Melandri, Alma Mater Studiorum , Universita di Bolog](https://amslaurea.unibo.it/8268/1/melandri_luca_tesi.pdf)
 11. [Leaky Echo State Network Sergio Peignier May 3, 2017](https://sergiopeignier.github.io/teaching/python/leaky-echo-state.pdf)
 12. [ИСПОЛЬЗОВАНИЕ МЕТОДОВ ИНТЕЛЛЕКТУАЛЬНОГО АНАЛИЗА В ЗАДАЧАХ БИНАРНОЙ КЛАССИФИКАЦИИ](https://cyberleninka.ru/article/v/ispolzovanie-metodov-intellektualnogo-analiza-v-zadachah-binarnoy-klassifikatsii)
-13. [Метрики в задачах машинного обучения](https://habr.com/ru/company/ods/blog/328372/)
+13. [Метрики в задачах машинного обучения ХАБР](https://habr.com/ru/company/ods/blog/328372/)
